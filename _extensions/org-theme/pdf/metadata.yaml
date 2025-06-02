@@ -1,0 +1,4 @@
+pdf-engine: xelatex
+template-partials: []
+documentclass: article
+include-in-header: theme.tex

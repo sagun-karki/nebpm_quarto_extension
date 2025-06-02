@@ -1,0 +1,4 @@
+format:
+  revealjs:
+    theme: theme.scss
+    transition: fade
