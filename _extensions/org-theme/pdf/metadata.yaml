@@ -1,4 +1,5 @@
 pdf-engine: xelatex
-template-partials: []
 documentclass: article
 include-in-header: theme.tex
+geometry: letterpaper, margin=1in
+mainfont: Arial
