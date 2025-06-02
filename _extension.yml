@@ -3,4 +3,4 @@ version: "1.0.0"
 contributes:
   formats:
     pdf: pdf/metadata.yaml
-    ppt: ppt/metadata.yaml
+    revealjs: ppt/metadata.yaml
